@@ -23,11 +23,11 @@ I record some solution posts I posted on LeetCode since there is no traverse for
 
 [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/discuss/1091694/dp-greedy-solutions-time-on-space-o1-clean-and-concise)
 
-[1263. Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/word-ladder/discuss/1384291/c-build-the-graph-with-indexes-and-do-bidirectional-bfs)
+[1263. Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/discuss/1128447/Using-two-BFS%3A-beats-100-clean-and-easy-to-understand-with-explanation)
 
 [127. Word Ladder](https://leetcode.com/problems/word-ladder/discuss/1384291/c-build-the-graph-with-indexes-and-do-bidirectional-bfs)
 
-[https://leetcode.com/problems/longest-common-subpath/](https://leetcode.com/problems/longest-common-subpath/discuss/1314738/a-naive-but-slow-solution)
+[1923. Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/discuss/1314738/a-naive-but-slow-solution)
 
 [1766. Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/discuss/1110477/dfs-using-depth-precompute-coprime-on)
 
