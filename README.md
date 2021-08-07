@@ -1,7 +1,8 @@
 # Leetcode-solutions-posts
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 
-[132. Palindrome PartitioningII](https://leetcode.com/problems/palindrome-partitioning-ii/discuss/1388676/C%2B%2B-intuitive-solution-expand-around-the-center-%2B-DP-O(n2))/n
+[132. Palindrome PartitioningII](https://leetcode.com/problems/palindrome-partitioning-ii/discuss/1388676/C%2B%2B-intuitive-solution-expand-around-the-center-%2B-DP-O(n2))
+
 [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/discuss/1333442/c-precompute-valid-pairsdp-beats-100-32ms67mb)
 [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/discuss/1300431/c-beats-100-timememory-cleaneasy)
 [1954. Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/discuss/1375422/golang-precomputebinary-search)
