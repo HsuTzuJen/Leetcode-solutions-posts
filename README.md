@@ -2,6 +2,10 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/discuss/1390398/c-lis-clean-concise)
+
+[1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/discuss/1390434/c-math-clean-concise-no-stack-ono1)
+
 [132. Palindrome PartitioningII](https://leetcode.com/problems/palindrome-partitioning-ii/discuss/1388676/C%2B%2B-intuitive-solution-expand-around-the-center-%2B-DP-O(n2))
 
 [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/discuss/1333442/c-precompute-valid-pairsdp-beats-100-32ms67mb)
