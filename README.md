@@ -2,6 +2,8 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[356. Line Reflection](https://leetcode.com/problems/line-reflection/discuss/1414578/C%2B%2B-O(n)-hashmap)
+
 [265. Paint House II](https://leetcode.com/problems/paint-house-ii/discuss/1406575/C%2B%2B-Bottom-UP-DP-O(n*k)time%2BO(1)space)
 
 [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/discuss/1406075/C%2B%2B-Binary-Search-%2B-BFSDFS-beats-100)
