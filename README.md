@@ -2,6 +2,10 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/discuss/1417870/C%2B%2B-Dijkstra-%2B-DP)
+
+[1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/discuss/1417793/C%2B%2B-greed-count-number-of-negatives-and-zeros)
+
 [356. Line Reflection](https://leetcode.com/problems/line-reflection/discuss/1414578/C%2B%2B-O(n)-hashmap)
 
 [265. Paint House II](https://leetcode.com/problems/paint-house-ii/discuss/1406575/C%2B%2B-Bottom-UP-DP-O(n*k)time%2BO(1)space)
