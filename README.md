@@ -2,6 +2,8 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/discuss/1424509/C%2B%2B-recursive-clean-code)
+
 [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/discuss/1424428/C%2B%2B-recursive-clean-code)
 
 [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/discuss/1417870/C%2B%2B-Dijkstra-%2B-DP)
