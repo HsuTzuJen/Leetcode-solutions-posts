@@ -2,6 +2,8 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/discuss/1424428/C%2B%2B-recursive-clean-code)
+
 [1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/discuss/1417870/C%2B%2B-Dijkstra-%2B-DP)
 
 [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/discuss/1417793/C%2B%2B-greed-count-number-of-negatives-and-zeros)
