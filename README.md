@@ -2,6 +2,8 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/discuss/1453136/C%2B%2B-intuitive-solution-O(m*n)t-%2B-O(m%2Bn))
+
 [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/discuss/1451192/C%2B%2B-one-pass-and-clean-and-concise)
 
 [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/discuss/1424765/C%2B%2B-Binary-Search-%2BDP)
