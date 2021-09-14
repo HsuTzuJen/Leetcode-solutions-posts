@@ -2,6 +2,8 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[777. Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/discuss/1462315/C%2B%2B-two-pointers-O(n))
+
 [1170. Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/discuss/1462216/C%2B%2B-prefixsumbinary-index-tree)
 
 [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/discuss/1453136/C%2B%2B-intuitive-solution-O(m*n)t-%2B-O(m%2Bn))
