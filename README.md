@@ -2,6 +2,8 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/discuss/1943346/Easy-Greedy-C%2B%2B)
+
 [722. Remove Comments](https://leetcode.com/problems/remove-comments/discuss/1462331/C%2B%2B-one-pass-simulation-O(n))
 
 [777. Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/discuss/1462315/C%2B%2B-two-pointers-O(n))
