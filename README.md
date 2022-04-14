@@ -2,6 +2,8 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[2018. Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/discuss/1946952/KMP-C%2B%2B-O(m*n)-time-and-O(w)-sapce)
+
 [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/discuss/1943346/Easy-Greedy-C%2B%2B)
 
 [722. Remove Comments](https://leetcode.com/problems/remove-comments/discuss/1462331/C%2B%2B-one-pass-simulation-O(n))
