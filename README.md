@@ -3,6 +3,8 @@ I record some solution posts I posted on LeetCode since there is no traverse for
 Go/C++
 
 
+[2184. Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/discuss/2018877/C%2B%2B-2DFS-%2B-DP)
+
 [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/discuss/2011039/C%2B%2B-priority_queue-%2B-dequeue)
 
 [2018. Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/discuss/1946952/KMP-C%2B%2B-O(m*n)-time-and-O(w)-sapce)
