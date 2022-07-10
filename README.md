@@ -1,6 +1,7 @@
 # Leetcode-solutions-posts
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
+
 [2334. Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/discuss/2260176/C%2B%2B-Diviede-And-Conquer-beats-100-easy-codes)
 
 [2184. Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/discuss/2018877/C%2B%2B-2DFS-%2B-DP)
