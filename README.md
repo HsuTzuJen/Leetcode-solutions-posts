@@ -2,6 +2,8 @@
 I record some solution posts I posted on LeetCode since there is no traverse for personal posts on the site.
 Go/C++
 
+[2345. Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/discuss/2329669/C%2B%2B-no-mono-stack-but-sorting-only)
+
 [2313. Minimum Flips in Binary Tree to Get Result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/discuss/2268766/C%2B%2B-Greedy-O(n))
 
 [2338. Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/discuss/2268500/C%2B%2B-DP-TopDown-beats-100-easy-codes)
